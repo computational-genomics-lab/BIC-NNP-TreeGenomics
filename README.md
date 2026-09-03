@@ -1,0 +1,1 @@
+The bioinformatics workshop sponsored by DBT was conducted in 31st August to 4th September in IICB TRUE campus. All the slides and source materials are posted here. For more details please check our website at https://sites.google.com/view/brc-nnp-iicb/home
