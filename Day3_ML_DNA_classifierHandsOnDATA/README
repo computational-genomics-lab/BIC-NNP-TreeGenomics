@@ -1,0 +1,17 @@
+
+**Genome HackWeek 2026 · DBT-BIC-NNP-TREE Genome Informatics · CSIR-IICB Kolkata**
+This directoty has a zip file containing required material for 60-minute Colab practical, delivered immediately after *DNA Language Models & Classifiers*.
+
+---
+
+## 0. Files and what each one is for
+
+| File | Purpose |
+|---|---|---|
+| `Promoter_Classifier_PRACTICAL.ipynb` | 47 cells, 4 small gaps marked `# ---- YOUR TURN ----` |
+| `promoter_dataset.csv` (0.83 MB) | 3,000 human windows |
+| `mouse_holdout.csv` (0.25 MB) | 900 mouse windows |
+| `challenge_sequences.csv` | 12 unlabelled sequences |
+| `challenge_answers.csv`  | the key (Part 6 reads it) |
+
+
